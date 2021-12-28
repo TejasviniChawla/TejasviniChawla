@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TejasviniChawla
-- 👀 I’m interested in Artificial Intelligence and its applications.
+- 👀 I’m interested in python, c++, and Artificial Intelligence and its applications.
 
 <!---
 TejasviniChawla/TejasviniChawla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

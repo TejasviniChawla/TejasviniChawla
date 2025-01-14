@@ -1,5 +1,5 @@
 <h1 align="center">Hey! I'm Tejasvini</h1>
-<h3 align="center">A backend developer from India (I do not like doing frontend)</h3>
+<h3 align="center">A backend developer studying at University of Waterloo</h3>
 
 - 🌱 I’m currently learning **about vector databases and how to use them.**
 

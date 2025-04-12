@@ -7,7 +7,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/19sVeZu6I1pQddBv_wfpXIcBVCkTSULn1/view?usp=sharing](https://drive.google.com/file/d/19sVeZu6I1pQddBv_wfpXIcBVCkTSULn1/view?usp=sharing)
 
-- ⚡ Fun fact **I love Greek mythology!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

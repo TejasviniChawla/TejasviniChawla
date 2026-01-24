@@ -69,4 +69,4 @@ Using RAG and LLM fine-tuning to extract insights from historical weather data f
 
 ---
 
-*Last updated: January 2025*
+*Last updated: January 2026*

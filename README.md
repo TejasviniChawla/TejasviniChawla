@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tejasvinichawla-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tejasvinichawla/)
 [![Email](https://img.shields.io/badge/Email-tejasvini.chawla@gmail.com-red?style=flat&logo=gmail)](mailto:tejasvini.chawla@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen?style=flat)](https://your-portfolio-url.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen?style=flat)](tejasvini.co)
 
 ---
 
